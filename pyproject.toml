@@ -6,10 +6,11 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-ariadne = "^0.3.0"
+ariadne = "^0.5.0"
 faker = "^1.0"
 uvicorn = "^0.6.1"
 aiodataloader = "^0.1.2"
+starlette = "^0.12.0"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.3"
